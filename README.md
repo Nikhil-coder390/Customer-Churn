@@ -31,7 +31,7 @@ Unique Selling Proposition (USP)
 Our model achieved an accuracy of 98% in predicting customer churn, with a confidence score of 99.2%, showcasing its robustness and reliability.
 
 ## Teammates
-<ul>
+<ul type="none">
   <li>
     1. Arkaprava Mukherjee 
   </li>
